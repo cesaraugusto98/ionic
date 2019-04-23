@@ -1,4 +1,4 @@
-# IONIC + ANGULAR + FIREBASE CLOUD FIRESTORE
+# IONIC/CORDOVA+ ANGULAR + FIREBASE CLOUD FIRESTORE
 First app using Ionic, followed this tutorial: https://devdactic.com/ionic-4-firebase-angularfire/
 
 Youtube ref: https://www.youtube.com/watch?v=H20l9ofyR54
