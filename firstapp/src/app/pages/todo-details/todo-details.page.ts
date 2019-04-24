@@ -15,6 +15,7 @@ export class TodoDetailsPage implements OnInit {
     createdAt: new Date().getTime(),
     priority:2
   }
+  
   todoId =  null;
 
   constructor(private todoService: TodoService, private route: ActivatedRoute, private loadingController: LoadingController, private nav: NavController) { }

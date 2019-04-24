@@ -7,6 +7,7 @@ import { Todo, TodoService } from '../services/todo.service';
   styleUrls: ['home.page.scss'],
 })
 export class HomePage implements OnInit{
+  
   todos: Todo[];
 
   constructor(private todoService: TodoService) {}
